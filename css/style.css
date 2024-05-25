@@ -1,0 +1,18 @@
+.carousel-item{
+    height: 400px;
+}
+.carousel-caption-2{
+    color: black;
+}
+.container{
+    margin-top: 18px;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+.row-featurette{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
